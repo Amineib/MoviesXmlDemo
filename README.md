@@ -5,8 +5,6 @@ The XML UI version of the Movies demo app.
 Built this app as a demo to show to the interviewers. 
 This demo app fetches the data related to a movies catalogue and show it in the UI.
 
-# Movies Demo App
-
 ## PS
 I'm leaving the api key hardcoded in the ApiKeyInterceptor class to simplify the usage of the demo app, i'm usually using Secrets Gradle Plugin to hide the api key in the local.properties file, and expose it via a variable BuildConfig.apiKey 
 
